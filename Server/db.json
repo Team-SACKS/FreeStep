@@ -1,1 +1,4 @@
-records: []
+records: [{
+  name: "Keith",
+  id: 12345
+  }, {}, {}]
